@@ -11,5 +11,4 @@ yarn.lock
 .DS_Store
 
 # dist
-dist
 build/

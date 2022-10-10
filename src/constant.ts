@@ -19,4 +19,5 @@ export interface MediaSessionProps {
   onSeekForward?: (...args: any[]) => any;
   onPreviousTrack?: (...args: any[]) => any;
   onNextTrack?: (...args: any[]) => any;
+  onStop?: (...args: any[]) => any;
 }
